@@ -11,13 +11,8 @@ summary: 'System Manager è un"interfaccia di gestione grafica che consente di g
 
 
 [role="lead"]
-System Manager è un'interfaccia di gestione grafica che consente di gestire i sistemi storage e gli oggetti storage (come dischi, volumi e aggregati) ed eseguire attività di gestione comuni relative ai sistemi storage da un browser Web. In qualità di amministratore del cluster, è possibile utilizzare System Manager per amministrare l'intero cluster e le relative risorse.
+System Manager è un'interfaccia di gestione grafica basata su HTML5 che consente di gestire i sistemi storage e gli oggetti di storage (come dischi, volumi e aggregati) e di eseguire task di gestione comuni correlati ai sistemi storage da un browser web. System Manager è incluso nel software ONTAP come servizio Web, abilitato per impostazione predefinita e accessibile tramite un browser. In qualità di amministratore del cluster, è possibile utilizzare System Manager per amministrare l'intero cluster e le relative risorse.
 
-[NOTE]
-====
-System Manager non è più disponibile come file eseguibile ed è ora incluso nel software ONTAP come servizio Web, abilitato per impostazione predefinita e accessibile mediante un browser.
-
-====
 [NOTE]
 ====
 Il nome di System Manager è stato modificato rispetto alle versioni precedenti. Le versioni 9.5 e precedenti erano denominate Gestione di sistema OnCommand. Le versioni 9.6 e successive sono ora denominate Gestione di sistema ONTAP.

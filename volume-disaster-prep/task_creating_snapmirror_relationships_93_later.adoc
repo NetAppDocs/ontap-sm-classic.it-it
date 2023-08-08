@@ -32,7 +32,7 @@ summary: È necessario creare una relazione SnapMirror tra il volume di origine 
 +
 Solo le SVM in peering e le SVM consentite sono elencate nelle SVM di destinazione.
 
-.. Fare clic su image:../media/advanced_options_icon_disaster.gif[""].
+.. Fare clic su image:../media/advanced_options_icon_disaster.gif["Icona Opzioni avanzate"].
 .. Nella finestra di dialogo *Opzioni avanzate*, verificare che `MirrorAllSnapshots` è impostato come criterio di protezione.
 +
 `DPDefault` e. `MirrorLatest` Sono gli altri criteri di protezione predefiniti disponibili per le relazioni SnapMirror.
@@ -47,7 +47,7 @@ Tutte le relazioni di protezione dei dati vengono inizializzate per impostazione
 
 .. Fare clic su *Apply* (Applica) per salvare le modifiche.
 +
-image::../media/snapmirror_advanced_options_93.gif[opzioni avanzate di snapmirror 93]
+image::../media/snapmirror_advanced_options_93.gif[Finestra Opzioni avanzate]
 
 
 
@@ -59,7 +59,7 @@ image::../media/snapmirror_advanced_options_93.gif[opzioni avanzate di snapmirro
 
 
 +
-image::../media/snapmirror_9_3.gif[snapmirror 9 3]
+image::../media/snapmirror_9_3.gif[Screenshot dello stato di SnapMirror]
 
 
 
