@@ -35,6 +35,11 @@ summary: È possibile utilizzare System Manager per riassegnare la proprietà de
 
 
 
+[NOTE]
+====
+Nelle versioni successive di ONTAP, si utilizza la CLI di ONTAP per rimuovere la proprietà del disco e quindi assegnare un nuovo proprietario.
+
+====
 .Fasi
 . Fare clic su *Storage* > *Aggregates & Disks* > *Disks*.
 . Nella finestra *dischi*, selezionare la scheda *inventario*.
@@ -42,4 +47,10 @@ summary: È possibile utilizzare System Manager per riassegnare la proprietà de
 . Nella finestra di dialogo *Avviso*, fare clic su *continua*.
 . Nella finestra di dialogo *Assegna dischi*, selezionare il nodo a cui si desidera riassegnare i dischi.
 . Fare clic su *Assegna*.
+
+
+.Informazioni correlate
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/remove-ownership-disk-task.html["Rimozione della proprietà dei dischi mediante la CLI di ONTAP (ONTAP 9,3 e versioni successive)"]
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/disk-autoassignment-policy-concept.html["Assegnazione automatica dei dischi utilizzando la CLI di ONTAP (ONTAP 9,3 e versioni successive)"]
+* link:https://docs.netapp.com/us-en/ontap/disks-aggregates/manual-assign-disks-ownership-manage-task.html["Assegnazione manuale dei dischi mediante l'interfaccia CLI di ONTAP (ONTAP 9,3 e versioni successive)"]
 
