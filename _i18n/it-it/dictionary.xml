@@ -4543,7 +4543,6 @@
   <block id="503e6a1d24532cf16b90068dcf9d0814" category="list-text">Nella finestra *Ridimensiona volume FlexCache*, specificare le dimensioni in cui si desidera ridimensionare il volume FlexCache.</block>
   <block id="2c228870bc26117c2bcc38d47fed7cbb" category="paragraph">Per impostazione predefinita, gli aggregati esistenti vengono utilizzati per ridimensionare il volume FlexCache. A partire da System Manager 9.6, le dimensioni massime consentite per il volume vengono visualizzate accanto al campo delle dimensioni.</block>
   <block id="ee06c3a75d2f90d528d0bdad6ee8b794" category="inline-link-macro">Specifica delle opzioni avanzate per i volumi FlexCache</block>
-  <block id="bf1a8ac5c931866758030b4588ed85b1" category="paragraph">Se si desidera espandere il volume FlexCache aggiungendo nuove risorse, fare clic su <block ref="03cbf9b997ad0db8d0ffb988950200e2" category="inline-image-macro-rx" type="image"></block> (opzioni avanzate). Fare riferimento a. <block ref="ff23e8b352173b9385a50749f03a49b1" category="inline-link-macro-rx"></block>.</block>
   <block id="689dc6ae2f8d54723af8baa6aff39f7d" category="list-text">Fare clic su *Save* (Salva) per ridimensionare il volume FlexCache.</block>
   <block id="aaf5b013f2fa768aebabb2bab156fca3" category="summary">È possibile limitare il throughput dei volumi FlexVol e FlexGroup assegnandoli ai gruppi di criteri di qualità del servizio (QoS) dello storage. È possibile assegnare la QoS dello storage per i nuovi volumi oppure modificare i dettagli della QoS dello storage dei volumi già assegnati a un gruppo di criteri utilizzando System Manager.</block>
   <block id="1a14e924b725d213f7adeaa02fec40a1" category="doc">Assegnare volumi alla QoS dello storage con Gestione di sistema - ONTAP 9.7 e versioni precedenti</block>
@@ -9277,4 +9276,5 @@
   <block id="f807dcc2ee9aff63931a364b0bfb045d" category="list-text">9.11.1P4 e versioni successive 9,11</block>
   <block id="04faa4f6e99109900566d6589f5adfd3" category="list-text">9.12.1 e versioni successive</block>
   <block id="3679bf7b8140ea8f4291be1d7fc023bd" category="list-text">Shibboleth</block>
+  <block id="0141b877fcf49f33b47400dd7edb78c1" category="paragraph">Se si desidera espandere il volume FlexCache aggiungendo nuove risorse, fare clic su <block ref="03cbf9b997ad0db8d0ffb988950200e2" category="inline-image-macro-rx" type="image"></block> (opzioni avanzate). Fare riferimento a. <block ref="4f3fc931d92f22f55a489e2373f71d6c" category="inline-link-macro-rx"></block>.</block>
 </blocks>
