@@ -9037,7 +9037,6 @@
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Più risorse</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">Documentazione di ONTAP 9</block>
   <block id="7b974027d646fea794167794eca699d0" category="sidebar">Documentazione API REST e automazione</block>
-  <block id="d1b92a4930d50c6ed1038655db0d2684" category="sidebar">Tutta la documentazione del prodotto ONTAP</block>
   <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">Panoramica</block>
   <block id="2e8a972dbf09cb9d9e8634a9ff967882" category="sidebar">Aprire la policy di esportazione del volume root SVM (creando una nuova SVM abilitata per NFS)</block>
   <block id="6f001c629b64ce94f74af79735f0c5ad" category="sidebar">Creare una condivisione e impostarne le autorizzazioni</block>
@@ -9046,7 +9045,6 @@
   <block id="36308d81e97ed47d001a9e37fd37634b" category="sidebar">Configurare volumi logici su dispositivi multipath e creare un file system</block>
   <block id="7764db582957448eb25528aee4db56b7" category="sidebar">Configurazione FC per ESXi con VSC</block>
   <block id="1cea5f7ff46fdcaad82b7016abae2ceb" category="sidebar">Configurazione SMB/CIFS</block>
-  <block id="8cadc76a323c196244af8dd4c3ad5543" category="sidebar">Consente di pubblicare un volume CIFS su una SVM abilitata per CIFS</block>
   <block id="dcac34ac3a0167254a9c5e757dd7143a" category="sidebar">Configurazione iSCSI per Windows</block>
   <block id="28ed8622e2b3c95e29e6f443b5b6cd84" category="sidebar">Inizializzare e formattare il LUN</block>
   <block id="0fe674cba26a6125717793de11bb3096" category="sidebar">Amministrazione dell'espansione del cluster</block>
@@ -9277,4 +9275,5 @@
   <block id="04faa4f6e99109900566d6589f5adfd3" category="list-text">9.12.1 e versioni successive</block>
   <block id="3679bf7b8140ea8f4291be1d7fc023bd" category="list-text">Shibboleth</block>
   <block id="0141b877fcf49f33b47400dd7edb78c1" category="paragraph">Se si desidera espandere il volume FlexCache aggiungendo nuove risorse, fare clic su <block ref="03cbf9b997ad0db8d0ffb988950200e2" category="inline-image-macro-rx" type="image"></block> (opzioni avanzate). Fare riferimento a. <block ref="4f3fc931d92f22f55a489e2373f71d6c" category="inline-link-macro-rx"></block>.</block>
+  <block id="5069c081842d21ed175ea7a6154fbacb" category="sidebar">L'interfaccia classica di System Manager è disponibile in ONTAP 9,7 e nelle versioni precedenti di ONTAP 9. In questo sito è disponibile la documentazione per i flussi di lavoro di configurazione con System Manager Classic e la Guida in linea di System Manager Classic per ONTAP 9,6 e 9,7.</block>
 </blocks>
